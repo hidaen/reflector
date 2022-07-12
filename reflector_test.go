@@ -1,7 +1,6 @@
-package reflector_test
+package reflector
 
 import (
-	. "."
 	"testing"
 )
 
